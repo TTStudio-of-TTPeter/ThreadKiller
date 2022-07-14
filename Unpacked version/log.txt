@@ -1,0 +1,2 @@
+nul
+成功: 已终止进程 "wordpad.exe"，其 PID 为 23976。
