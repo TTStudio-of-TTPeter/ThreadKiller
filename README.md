@@ -19,7 +19,7 @@ Before you look into the problem, check the below sections.
 
 So, you may see the error outputs to determine whether you need to give **special right**.
 
-As for other problems, you need to figure out by yourself. You are allowed to edit my codes. License is `MIT`.
+As for other problems, you need to figure out by yourself. You are allowed to edit my codes. License is `MIT`-like.
 
 ## Cases need special rights
 
@@ -39,14 +39,23 @@ Well, please remember they're just a collection of commands you need to type in 
 
 ## For Commercial Use
 
-Programs of this project is free for individual uses but **not free for commercial uses**. Codes are opened but you're permitted to use the programs. You need to buy access to use them commercially and gain a permission of redistributing modified version in the same time. 
+Programs of this project is free for individual uses but **not free for commercial uses**. Codes are opened but you're permitted to use the programs. You need to buy a new permission to use them commercially. (The new permission will be `MIT License`)
 
 Contact us through email: liuljwtt@foxmail.com
 
 ## LICENSE
 
-This project is under MIT License.
+This project is under MIT-like License. BUT NO FREE PERMISSION FOR COMMERCIAL USES!
 
 Copyright (c) 2022 TTStudio-of-TTPeter
 
-(There is a LICENSE file.)
+```
+MIT-like License
+Unlike MIT license, you cannot sell the copies. But you still have other rights a MIT license will give.
+If you want to use commercially, sell only modified versions with at least 30% difference or contact through project's email to buy a MIT license. Otherwise, you should redistribute them for free.
+```
+
+(There is a LICENSE file for details.)
+
+This project also use another project as part of it. For license please refer to:
+https://github.com/LiuJiewenTT/BlackCurtain/blob/main/LICENSE	
