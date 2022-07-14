@@ -55,7 +55,22 @@ Unlike MIT license, you cannot sell the copies. But you still have other rights 
 If you want to use commercially, sell only modified versions with at least 30% difference or contact through project's email to buy a MIT license. Otherwise, you should redistribute them for free.
 ```
 
+But you can **buy a MIT License** for **1 CNY** per month! And in `MIT Licensed List` of this Project there will be your name of yourself or your business for validation. (Entity Name)
+
 (There is a LICENSE file for details.)
 
 This project also use another project as part of it. For license please refer to:
 https://github.com/LiuJiewenTT/BlackCurtain/blob/main/LICENSE	
+
+## Why I create this MIT-like customized license
+
+I know it's just a small project. But I don't want to see if there is anyone sell my codes for benefits of their own. And I don't want to see anyone copy my codes and change a little bit then declares that his work base on it. So I add a limit of 30% difference. Within that percent, You should not sell them but distribute them for free. For other commercial use, such a low subscribing price is a support for developers' work and this won't become a burden for businesses. 
+
+I know there are some protocols require declaration of changes. But I just thought that would be to a complicated work sometimes. So in this customized MIT license, only percentage of difference is considered. The percentage could be customized by developers for actual circumstances. 
+
+To unlock the limit, pay a small amount and developers are supposed to return you a said new license. In this project, the new license will be true MIT license.
+
+This license type is my effort to balance dream and survival in free software field. (Free software refers to open-sourced software.)
+
+If you like my work, please tell it to people around you or use it for your own projects. Thanks!
+
