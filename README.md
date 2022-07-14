@@ -45,14 +45,18 @@ Contact us through email: liuljwtt@foxmail.com
 
 ## LICENSE
 
-This project is under MIT-like License. BUT NO FREE PERMISSION FOR COMMERCIAL USES!
+This project is under [MIT-like License](https://github.com/TTStudio-of-TTPeter/TTPeter-s-MIT-like-License). BUT NO FREE PERMISSION FOR COMMERCIAL USES!
 
 Copyright (c) 2022 TTStudio-of-TTPeter
 
 ```
-MIT-like License
-Unlike MIT license, you cannot sell the copies. But you still have other rights a MIT license will give.
-If you want to use commercially, sell only modified versions with at least 30% difference or contact through project's email to buy a MIT license. Otherwise, you should redistribute them for free.
+MIT-like License (Simple Description)
+Unlike MIT license, commercial uses aren't allowed for free. But you still 
+have other rights a MIT license will give.
+If you want to use commercially, sell only modified versions with at least 
+30% difference or contact through project's email to buy a/an MIT license
+for any commerical use. Otherwise, you should distribute your products for
+free, without charging for anything.
 ```
 
 But you can **buy a MIT License** for **1 CNY** per month! And in `MIT Licensed List` of this Project there will be your name of yourself or your business for validation. (Entity Name)
