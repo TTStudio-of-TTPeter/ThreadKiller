@@ -70,7 +70,7 @@ https://github.com/LiuJiewenTT/BlackCurtain/blob/main/LICENSE
 
 I know it's just a small project. But I don't want to see if there is anyone sell my codes for benefits of their own. And I don't want to see anyone copy my codes and change a little bit then declares that his work base on it. So I add a limit of 30% difference. Within that percent, You should not sell them but distribute them for free. For other commercial use, such a low subscribing price is a support for developers' work and this won't become a burden for businesses. 
 
-I know there are some protocols require declaration of changes. But I just thought that would be to a complicated work sometimes. So in this customized MIT license, only percentage of difference is considered. The percentage could be customized by developers for actual circumstances. 
+I know there are some protocols require declaration of changes. But I just thought that would be  a bit too complicated  sometimes. So in this customized MIT license, only percentage of difference is considered. The percentage could be customized by developers for actual circumstances. 
 
 To unlock the limit, pay a small amount and developers are supposed to return you a said new license. In this project, the new license will be true MIT license.
 
