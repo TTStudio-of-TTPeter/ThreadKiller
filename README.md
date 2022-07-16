@@ -41,6 +41,8 @@ Well, please remember they're just a collection of commands you need to type in 
 
 Programs of this project is free for individual uses but **not free for commercial uses**. Codes are opened but you're permitted to use the programs. You need to buy a new permission to use them commercially. (The new permission will be `MIT License`)
 
+See a sample of new license here: [Sample of New License](https://github.com/TTStudio-of-TTPeter/ThreadKiller/blob/main/Sample%20of%20New%20License)
+
 Contact us through email: liuljwtt@foxmail.com
 
 ## LICENSE
@@ -65,6 +67,12 @@ But you can **buy a MIT License** for **1 CNY** per month! And in `MIT Licensed 
 
 This project also use another project as part of it. For license please refer to:
 https://github.com/LiuJiewenTT/BlackCurtain/blob/main/LICENSE	
+
+---
+
+See a sample of new license here: [Sample of New License](https://github.com/TTStudio-of-TTPeter/ThreadKiller/blob/main/Sample%20of%20New%20License)
+
+Contact us through email: liuljwtt@foxmail.com
 
 ## Why I create this MIT-like customized license
 
